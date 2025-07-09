@@ -1,7 +1,7 @@
 ---
 name: Custom issue template
 about: Describe this issue template's purpose here.
-title: "[Feature] 제목을 간략히 입력해주세요"
+title: "[feat] 제목을 간략히 입력해주세요"
 labels: ''
 assignees: taemin01
 
